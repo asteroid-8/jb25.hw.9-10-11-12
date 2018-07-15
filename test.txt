@@ -1,0 +1,4 @@
+name: Тестирование программного обеспечения; coverType: soft; year: 2015; cost: 15.0; author: Куликов; publishing: Epam;
+name: Как встречаться с ботаном; coverType: glossy; year: 2018; cost: 70.99; author: Шилдт; publishing: Pinguin;
+name: Java 8. Руководство для начинающих; coverType: hard; year: 2017; cost: 80.5; author: Шилдт; publishing: Oracle;
+name: Java 8. Полное руководство; coverType: hard; year: 2016; cost: 60.4; author: Шилдт; publishing: Oracle;
